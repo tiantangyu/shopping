@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="shopping@localhost" uuid="0b149ff1-c1fb-448b-97f7-902cc28f43e2">
+      <secret-storage>master_key</secret-storage>
+      <user-name>root</user-name>
+      <resolve-scope>shopping:</resolve-scope>
+    </data-source>
+  </component>
+</project>
